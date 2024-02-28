@@ -1,0 +1,3 @@
+- Created a responsive Food Recipe App
+- used Spoonacular recipe api
+- ![Screenshot 2024-02-28 133934](https://github.com/chiillbro/Food-Recipe-App/assets/144758027/91200c23-578c-42ff-988b-aa1010f2cba0)
