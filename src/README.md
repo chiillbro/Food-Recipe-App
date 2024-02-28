@@ -1,0 +1,2 @@
+- Created Food Recipe App using React
+- used Spoonacular recipe api
