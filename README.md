@@ -1,3 +1,5 @@
-- Created a responsive Food Recipe App
-- used Spoonacular recipe api
+- Created a responsive Food Recipe App using React,
+- used Spoonacular recipe API for data,
+- used useState hook to manipulate the data and useEffect hook to fetch the data from API.
+- Created multiple components and css modules for each component for explicity and code maintainability,
 - ![Screenshot 2024-02-28 133934](https://github.com/chiillbro/Food-Recipe-App/assets/144758027/91200c23-578c-42ff-988b-aa1010f2cba0)
